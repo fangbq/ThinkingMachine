@@ -19,17 +19,17 @@ This project mixes robot Baxter with a kind of artistic performance to tell a st
 	
 4. To make the baxter go to original position:
 ```bash
-	$ rosrun my_baxter face_stage0.py  # make the face go origin
-	$ rosrun baxter_examples joint_position_file_playback.py –f $YOUR_BAXTER_WORKSPACE/src/my_baxter/arm_stage0  # make two arms go origin
+$ rosrun my_baxter face_stage0.py  # make the face go origin
+$ rosrun baxter_examples joint_position_file_playback.py –f $YOUR_BAXTER_WORKSPACE/src/my_baxter/arm_stage0  # make two arms go origin
 ```
 
 5. To make baxter ready to move:
 ```bash
-	$ roslaunch my_baxter preload_head_face.launch
-	$ rosrun my_baxter manager.py
-	$ rosrun my_baxter arm_stage1.py
-	$ rosrun my_baxter arm_stage2.py
-	$ rosrun my_baxter arm_stage3.py
+$ roslaunch my_baxter preload_head_face.launch
+$ rosrun my_baxter manager.py
+$ rosrun my_baxter arm_stage1.py
+$ rosrun my_baxter arm_stage2.py
+$ rosrun my_baxter arm_stage3.py
 ```
 
 6. To make baxter perform each stage one by one manually:
