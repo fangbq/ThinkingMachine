@@ -58,6 +58,7 @@ There nodes did nothing until you press enter in the corresponding 3 nodes:
 For example, when press enter to run stage1, `arm_stage1.py` starts up and publishes messages to make `face_stage1.py` and `head_stage1.py` start.
 
 ##  Video
-	https://youtu.be/M7LZVu7T7VQ
+	
+https://youtu.be/M7LZVu7T7VQ 
 
 
