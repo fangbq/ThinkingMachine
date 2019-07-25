@@ -1,0 +1,12 @@
+enter stage1
+stop stage0
+  --> wait to play voice 1
+stop voice1
+
+enter stage2
+play voice2
+  --> wait to stop voice 2 and play voice 3
+
+enter stage3
+  --> wait to play voice 4
+stop voice3
