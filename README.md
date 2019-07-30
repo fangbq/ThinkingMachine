@@ -1,5 +1,5 @@
 # The Illusion of A Thinking Machine
-This project mixes robot Baxter with a kind of artistic performance to tell a story.
+This project mixes robot Baxter with a kind of artistic performance to tell a story. (ROS)
 
 ##  Overview
 `baxter_illusion` is a node that makes the baxter performs a sequences of actions with funny face images on the screen, which seems like baxter is live. It would be more interesting if you can pretend to talk and interact with baxter when baxter performs the specific actions.
