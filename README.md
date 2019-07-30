@@ -1,4 +1,4 @@
-# The Illusion of The Thinking Machine
+# The Illusion of A Thinking Machine
 This project mixes robot Baxter with a kind of artistic performance to tell a story.
 
 ##  Summary
